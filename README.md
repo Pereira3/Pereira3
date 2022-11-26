@@ -1,4 +1,4 @@
-### Hi there, Welcome to my Profile 👋
+### Hi, Welcome to my Profile...
 
 ##
 
