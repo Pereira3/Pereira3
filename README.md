@@ -1,5 +1,3 @@
-### Hi, Welcome to my Profile...
-
 ##
 
 <div>
