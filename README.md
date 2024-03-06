@@ -7,10 +7,10 @@
 
 <div align="center">
   
-  **Linguagens Usadas**: <br><br>
+  **Most Liked Languages**: <br><br>
   <img src="https://skillicons.dev/icons?i=c,java,html,css,flutter,dart,latex"/>
   
-  **IDE's e Ferramentas**: <br><br>
+  **Most Liked Tools**: <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,github,ubuntu,linux,windows"/>
 
 </div>
