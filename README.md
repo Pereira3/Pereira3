@@ -8,14 +8,14 @@
 <div align="center">
   
   **Most Liked Languages**: <br><br>
-  <img src="https://skillicons.dev/icons?i=c,java,html,css,flutter,dart,latex"/>
+  <img src="https://skillicons.dev/icons?i=c,java,html,css,flutter,mysql,latex"/>
   
   **Most Liked Tools**: <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,github,ubuntu,linux,windows"/>
 
   **Other Languages and Tools Used:** <br><br>
   <img src="https://skillicons.dev/icons?i=py,php,ocaml,cpp"/><br>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,bash,spring,eclipse,visualstudio,figma"/>
+  <img src="https://skillicons.dev/icons?i=sqlite,firebase,bash,spring,eclipse,visualstudio,figma"/>
 </div>
 
 
