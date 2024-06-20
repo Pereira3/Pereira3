@@ -8,7 +8,7 @@
 <div align="center">
   
   **Most Liked Languages**: <br><br>
-  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,flutter,mysql,latex"/>
+  <img src="https://skillicons.dev/icons?i=c,java,py,html,css,dart,mysql,latex"/>
   
   **Most Liked Tools**: <br><br>
   <img src="https://skillicons.dev/icons?i=vscode,idea,github,ubuntu,linux,windows"/>
